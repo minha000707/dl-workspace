@@ -24,6 +24,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "selenium>=4.46.0",
     "torch>=2.13.0",
+    "torchsummary>=1.5.1",
     "torchvision>=0.28.0",
     "tqdm>=4.70.0",
     "webdriver-manager>=4.1.2",
